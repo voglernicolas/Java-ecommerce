@@ -4,16 +4,7 @@ Personal ecommerce project with java
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-/
-```
-
-### Installing
-
-/
-
+img src="https://img.shields.io/badge/coverage-2%25-red.svg" alt="coverage"></a>
 
 ## Deployment
 
@@ -30,7 +21,8 @@ What things you need to install the software and how to install them
 
 * **Nicolas Vogler** - *Initial work*
 
-## License
+## License  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="licence-MIT"></a>
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
