@@ -14,14 +14,10 @@ What things you need to install the software and how to install them
 
 /
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 
 ## Deployment
 
-*[Netlify]
+* [Netlify]
 
 ## Built With
 
@@ -32,7 +28,7 @@ Explain how to run the automated tests for this system
 
 ## Authors
 
-* **Nicolas Vogler** - *Initial work* - 
+* **Nicolas Vogler** - *Initial work*
 
 ## License
 
