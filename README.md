@@ -2,7 +2,7 @@
 
 Personal ecommerce project with java
 
-### Prerequisites
+### Progress
 
 <img src="https://img.shields.io/badge/coverage-2%25-red.svg" alt="coverage"></a>
 
