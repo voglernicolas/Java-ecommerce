@@ -4,7 +4,7 @@ Personal ecommerce project with java
 
 ### Prerequisites
 
-img src="https://img.shields.io/badge/coverage-2%25-red.svg" alt="coverage"></a>
+<img src="https://img.shields.io/badge/coverage-2%25-red.svg" alt="coverage"></a>
 
 ## Deployment
 
