@@ -21,7 +21,7 @@ Personal ecommerce project with java
 
 * **Nicolas Vogler** - *Initial work*
 
-## License  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="licence-MIT"></a>
+## License  <img src="https://img.shields.io/badge/licence-Apache%202-yellowgreen" alt="licence-Apache-2"></a>
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
